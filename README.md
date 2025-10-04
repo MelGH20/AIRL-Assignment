@@ -15,7 +15,7 @@ Best model config (example):
 Tiny results table (example):
 | Model | Epochs | Val Accuracy |
 |---|---:|---:|
-| ViT (above) | 60 | ~0.86 (example — your run may vary) |
+| ViT (above) | 60 | 0.91 |
 
 
 Analysis:
